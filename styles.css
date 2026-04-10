@@ -1,0 +1,5 @@
+.main-title {
+  /* rem stands for “root em”, meaning it’s relative to the root element (<html>) font size.
+By default, most browsers have 1rem = 16px. So 4rem = 16 × 4 = 64px. */
+  font-size: 4rem;
+}
